@@ -45,3 +45,5 @@ const triple = exampleArray.map(num => {
   return num * 3;
 });
 console.log(triple);
+
+//finished stretch
